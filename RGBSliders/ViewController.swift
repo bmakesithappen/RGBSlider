@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    // setting sliders and for colorSquare as properties created through IBOutlets / Refrencing outlets:
+    // setting sliders and colorSquare as properties created through IBOutlets / Refrencing outlets:
     @IBOutlet weak var redSlider: UISlider!
     @IBOutlet weak var greenSlider: UISlider!
     @IBOutlet weak var blueSlider: UISlider!
